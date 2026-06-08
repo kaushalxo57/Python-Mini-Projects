@@ -15,4 +15,4 @@ Python projects built to strengthen programming fundamentals and problem-solving
 - GitHub
 
 ## Author
-Kaushal# Python-Mini-Projects
+Kaushal
